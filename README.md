@@ -9,9 +9,9 @@
 | Dataset ID | `500784` |
 | Location | Rochester |
 | Category | Restaurants |
-| Full dataset size | 357 records |
-| Free sample size | 35 records (9.8%) |
-| Last export | 2026-04-09T10:07:43.917940+00:00 |
+| Full dataset size | 353 records |
+| Free sample size | 35 records (9.92%) |
+| Last export | 2026-04-16T10:02:20.519112+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rochester-minnesota-us-sample-500784/releases/download/sample-latest/beamstation_500784_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
