@@ -1,6 +1,6 @@
 # All Restaurants in Rochester, Minnesota, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `500784` |
 | Location | Rochester |
 | Category | Restaurants |
-| Full dataset size | 103 records |
-| Free sample size | 10 records (9.71%) |
-| Last export | 2026-04-23T09:57:24.415763+00:00 |
+| Full dataset size | 366 records |
+| Free sample size | 36 records (9.84%) |
+| Last export | 2026-04-30T10:06:48.933754+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rochester-minnesota-us-sample-500784/releases/download/sample-latest/beamstation_500784_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
