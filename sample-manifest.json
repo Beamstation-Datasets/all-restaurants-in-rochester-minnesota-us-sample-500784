@@ -1,12 +1,12 @@
 {
-  "export_job_id": "dab31ecb-bf57-4584-a9a6-a3154c3361de",
+  "export_job_id": "462d0f0a-5b73-4eb1-88ba-616e81c72500",
   "id_short": 500784,
-  "published_at": "2026-04-23T19:21:47Z",
+  "published_at": "2026-04-30T19:13:13Z",
   "repo_name": "all-restaurants-in-rochester-minnesota-us-sample-500784",
   "sample_asset_name": "beamstation_500784_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/500784/beamstation_500784_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "4afc273fcac3961d4af01f5201f59d40970f09362f3de9f9385be1e05fc0778a",
-  "sample_size_bytes": 49831,
-  "total_records": 103
+  "sample_records": 36,
+  "sample_sha256": "b3172a23229c65f271800856740116270ffe41281744a3497e0e97946704f406",
+  "sample_size_bytes": 139146,
+  "total_records": 366
 }
